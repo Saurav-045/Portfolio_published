@@ -4,7 +4,7 @@ Welcome to the place where you can see my creative journey and technological pro
 
 ## Overview 📖
 
-This portfolio website is a reflection of my passion for web development and design. It serves as a hub where you can explore my projects, skills, my education and accomplishments. Through captivating visuals and elegant design, I aim to provide a memorable user experience.
+This portfolio website is a reflection of my passion for web development and design. It is a hub where you can explore my projects, skills, education, and accomplishments. I aim to provide a memorable user experience through captivating visuals and elegant design.
 
 ## Features ✨
 
@@ -13,43 +13,27 @@ This portfolio website is a reflection of my passion for web development and des
 - **About Me:** Delve into my background, aspirations, and motivations.
 - **Contact & Connect:** Reach out to collaborate or connect on professional networks.
 
-## Technologies & Tools 🛠️
-
-Here's a glimpse of the technologies and tools powering this portfolio:
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Design:** CSS Grid, Flexbox, Responsive Design
-- **Icons:** SVG Icons, FontAwesome
-- **Version Control:** Git, GitHub Pages
-
 ## Screenshots 📷
 
-| ![Screenshot 1](./images/screenshot1.png) | ![Screenshot 2](./images/screenshot2.png) |
+| ![Screenshot 1](https://github.com/Saurav-045/Portfolio_published/assets/83125250/63e7714d-2778-467e-b301-2344e7e47e13) | ![Screenshot](https://github.com/Saurav-045/Portfolio_published/assets/83125250/a15670c8-3d2f-4318-83b6-ca64c7a84b12) |
 |-------------------------------------------|-------------------------------------------|
-| *Caption for Screenshot 1*                | *Caption for Screenshot 2*                |
+| *HomePage*                | *My Education Section*                |
 
-## Installation & Usage 🚦
+| ![Screenshot 1](https://github.com/Saurav-045/Portfolio_published/assets/83125250/c3f270db-2943-4679-bc72-205f7f538dd4)| ![Screenshot](https://github.com/Saurav-045/Portfolio_published/assets/83125250/f228b14c-23b1-4d10-9ba6-69165cc2cf5c)|
+|-------------------------------------------|-------------------------------------------|
+| *Skills Section*                | *Projects Section*                |
 
-1. Clone this repository.
-2. Navigate to the project directory: `cd your-name-portfolio`.
-3. Open the `index.html` file in your preferred web browser.
+| ![Screenshot 1](https://github.com/Saurav-045/Portfolio_published/assets/83125250/eae3ab5a-f974-4241-a1ce-0d1695b5fec0)| ![Screenshot](https://github.com/Saurav-045/Portfolio_published/assets/83125250/848d5740-2153-4ed9-98c0-557bef575968)|
+|-------------------------------------------|-------------------------------------------|
+| *POR*                | *Contact me*                |
 
-## Contribution & Feedback 🤝
-
-I value collaboration and feedback! If you'd like to contribute or provide suggestions:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Commit your changes: `git commit -m 'Add feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Open a pull request.
 
 ## Let's Connect 📬🌐
 
 I'm thrilled to connect and discuss opportunities:
 
-- Email: your@email.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- Portfolio: [Your Portfolio](https://www.yourportfolio.com/)
+- Email: sauravsinghrajput045@gmail.com
+- LinkedIn: [Saurav045](https://www.linkedin.com/in/saurav045/)
+- Portfolio: [My Portfolio](https://sauravsinghrajput.netlify.app)
 
 Let's embark on a journey of innovation and creativity! 🚀✨
